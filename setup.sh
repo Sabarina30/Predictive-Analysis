@@ -1,2 +1,7 @@
-#!/bin/bash
-pip install -r requirements.txt
+your-repo/
+│
+├── app.py
+├── requirements.txt
+├── setup.sh (optional)
+├── README.md
+└── .gitignore
