@@ -87,7 +87,7 @@ def make_predictions(model, input_data):
 
 # Main function to run Streamlit app
 def main():
-    st.title('Combined Model Deployment with Streamlit')
+    st.title('Financial Risk Analysis')
 
     # Load the combined pipeline
     model = load_combined_pipeline('combined_pipeline.pkl')
