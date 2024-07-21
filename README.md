@@ -13,5 +13,5 @@ A simple Streamlit app showing Predictive-Analysis
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run app.py
    ```
